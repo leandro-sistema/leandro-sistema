@@ -42,10 +42,11 @@ Here are some ideas to get you started:
   <h2>Minhas redes sociais</h2>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>     
   <a href = "mailto:santana.leandro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blue?style=for-the-badge&logo=GitHub Pages&logoColor=white"></a>
 </div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blue?style=for-the-badge&logo=web&logoColor=white"></a>
-</div>
+
+
 
 
   
