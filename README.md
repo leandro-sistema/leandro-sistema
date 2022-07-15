@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou o Leandro Santana </h1>
+<h1> Olá! Eu sou o Leandro de Santana </h1>
 <img alt="pefil"  src="https://github.com/santana-leandro/santana-leandro/blob/main/blob/perfil-cartoon-1.jpg"> 
 
 <!--
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img height="180em" height="auto" width="auto" src="https://github.com/santana-leandro/santana-leandro/blob/main/blob/robot1.gif">
   <h2>Minhas redes sociais</h2>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>     
-  <a href = "mailto:santana.leandro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:leandro.dev.sistema@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
     <a href="https://leandro-sistema.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-red?style=for-the-badge&logo=GitHub Pages&logoColor=white"></a>
 </div>
